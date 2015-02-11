@@ -1,0 +1,9 @@
+node_modules
+.DS_Store*
+temp/
+
+logs/*
+!logs/.keep
+
+start.sh
+
